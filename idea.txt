@@ -1,0 +1,27 @@
+1. Family document management
+
+One person becomes the default "keeper" of every family member's documents (IDs, medical records, insurance, school certificates), but there's no shared system, so retrieval depends entirely on that one person's memory and availability, and everyone else is locked out of their own paperwork.
+
+2. Gallery sorting fatigue
+
+Photos pile up unsorted because organizing them (by event, person, or trip) is manual and tedious, so people either never do it or abandon it halfway, losing the ability to actually find or revisit specific memories later.
+
+3. Laundry item tracking
+
+Users try to track laundry by counting items sent out so they can spot losses when it returns, but a count alone doesn't tell you which item is missing, since you can't reliably recall the exact pieces from a mental list days later.
+
+4. Shared watchlist / taste-matching for recs
+
+Getting a "what should I watch" recommendation from a friend is inefficient and repetitive because there's no persistent, visible record of what they've watched and rated. Unlike food or travel, there's no "Beli for movies" letting you browse a trusted person's taste directly instead of asking each time.
+
+5. Group project coordination overload
+
+Running multiple group projects in parallel means juggling multiple WhatsApp groups, where task ownership, deadlines, and division of work get buried in chat scroll. There's no lightweight structure layered on top of the casual group chat to track who's doing what.
+
+6. Inherited spam calls/texts
+
+Reused phone numbers mean new owners keep receiving calls/texts meant for the previous holder, with no system-level way to signal "wrong person" that actually stops the caller from trying again.
+
+7. Assignment/portfolio archiving for design students
+
+Design coursework (files, PPTs, project assets) piles up scattered across a laptop with inconsistent naming, so when it's needed later for a portfolio, reference, or resubmission, students can't locate it because they can't recall filenames or folder locations, and there's no habitual, low-effort archiving step built into the workflow.
