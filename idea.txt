@@ -25,3 +25,5 @@ Reused phone numbers mean new owners keep receiving calls/texts meant for the pr
 7. Assignment/portfolio archiving for design students
 
 Design coursework (files, PPTs, project assets) piles up scattered across a laptop with inconsistent naming, so when it's needed later for a portfolio, reference, or resubmission, students can't locate it because they can't recall filenames or folder locations, and there's no habitual, low-effort archiving step built into the workflow.
+
+nice one
